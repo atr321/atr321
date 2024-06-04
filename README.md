@@ -37,6 +37,14 @@
   </a>
 </p>
 
+- **FrontEnd**
+
+<p align="left">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react&perline=8" />
+  </a>
+</p>
+
 - **Database**
 
 <p align="left">
