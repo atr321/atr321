@@ -65,7 +65,7 @@
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,insomnia,swagger,postman,linux,sentry,git,github,gitlab&perline=5" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,swagger,postman,insomnia,linux,sentry,git,github,gitlab,figma&perline=5" />
   </a>
 </p>
 
