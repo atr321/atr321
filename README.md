@@ -25,7 +25,7 @@
 
 💻️ Enjoy to do programming and learn new features.<br/><br/>
 🛵 Love to take my bike and discover new places.<br/><br/>
-🏫 Bachelor in **Computer Science** at [UniCEUB](https://www.uniceub.br/).<br/><br/>
+🏫 Bachelor in **Computer Science** and post graduating in **Project Management** at [UniCEUB](https://www.uniceub.br/).<br/><br/>
 
 ## Use To Code
 
